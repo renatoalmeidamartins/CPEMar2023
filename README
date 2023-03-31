@@ -54,3 +54,11 @@ https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html
 
 Gateway load balancer 
 https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/
+
+## Modulo 5
+- Precos de S3
+https://aws.amazon.com/s3/pricing/
+
+- FSX, equivalente ao EFS (de NFS) para CIFS/SMB
+https://aws.amazon.com/fsx/
+
