@@ -30,6 +30,9 @@ https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-appl
 - Spot termination notices
 https://aws.amazon.com/blogs/aws/new-ec2-spot-instance-termination-notices/
 
+- Familias de instancia EC2
+https://aws.amazon.com/ec2/instance-types/
+
 - Spot instance advisor (diz a frequencia de interrupcoes de instancias spot)
 https://aws.amazon.com/ec2/spot/instance-advisor/
 
