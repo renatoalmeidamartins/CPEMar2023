@@ -64,3 +64,6 @@ https://aws.amazon.com/fsx/
 
 - Apresentacao descrevendo um uso muito interessante para DynamoDB
 https://aws.amazon.com/dynamodb/resources/reinvent-2019-advanced-design-patterns/
+
+- PartiQL - camada de SQL para bancos não-relacionais
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ql-reference.html
