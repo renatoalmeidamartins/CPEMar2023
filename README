@@ -34,3 +34,6 @@ https://aws.amazon.com/ec2/spot/instance-advisor/
 
 Video Lambda e serverless - Reduce your ops
 https://www.youtube.com/watch?v=zMua0cuhFnc
+
+Chamada direta de funcoes Lambda
+https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/
