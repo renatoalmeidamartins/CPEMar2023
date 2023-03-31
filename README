@@ -1,39 +1,47 @@
-Material
+# Material
 - Acesso ao ebook 
 https://evantage.gilmoreglobal.com/#/
 
-Curso no Skill builder
+* Curso no Skill builder
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials
 
-Portal com cursos disponíveis
+* Portal com cursos disponíveis
 https://releases.awstc.com/
 
 
-Links diversos
+# Links diversos
 
-Modulo 1
+## Modulo 1
 
-Key note de Werner Vogels, o mundo é assincrono
+- Key note de Werner Vogels, o mundo é assincrono
 https://www.youtube.com/watch?v=RfvL_423a-I
 
-Working backwards: excelente livro sobre a historia da Amazon
+- Working backwards: excelente livro sobre a historia da Amazon
 https://www.amazon.com.br/Working-Backwards-Insights-Stories-Secrets-ebook/dp/B08BYCQBZN
 
-AWS outposts
+- AWS outposts
 https://aws.amazon.com/outposts/
 
-6 Rs de migracao de aplicacoes
+- 6 Rs de migracao de aplicacoes
 https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
+- [Imagem com o fluxo dos 6R](./Application-Migration-Strategies-6-Rs.gif)
 
-Modulo 2
-Spot termination notices
+## Modulo 2
+- Spot termination notices
 https://aws.amazon.com/blogs/aws/new-ec2-spot-instance-termination-notices/
 
-Spot instance advisor (diz a frequencia de interrupcoes de instancias spot)
+- Spot instance advisor (diz a frequencia de interrupcoes de instancias spot)
 https://aws.amazon.com/ec2/spot/instance-advisor/
 
-Video Lambda e serverless - Reduce your ops
+- Video Lambda e serverless - Reduce your ops
 https://www.youtube.com/watch?v=zMua0cuhFnc
 
-Chamada direta de funcoes Lambda
+- Chamada direta de funcoes Lambda
 https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/
+
+- SNS pode fazer retry e deixa definir Dead-letter Queue (no SQS)
+https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html
+
+## Modulo 3
+- Infra-estrutura global da AWS https://aws.amazon.com/about-aws/global-infrastructure/
+- AWS developer tools https://aws.amazon.com/developer/tools/
