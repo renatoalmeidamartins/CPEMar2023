@@ -121,3 +121,6 @@ https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
 ## Modulo 10
 - Pagina do exame
 https://aws.amazon.com/certification/certified-cloud-practitioner/
+
+- Exame simulado
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12483/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english
