@@ -67,3 +67,13 @@ https://aws.amazon.com/dynamodb/resources/reinvent-2019-advanced-design-patterns
 
 - PartiQL - camada de SQL para bancos não-relacionais
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ql-reference.html
+
+- Playbooks de migracao de banco de dados 
+https://docs.aws.amazon.com/dms/index.html#migration-playbooks
+
+- Dynamo paper, apresentando a ideia do DynamoDB em uma conferencia de TI
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
+- Guia do DynamoDB
+https://www.dynamodbguide.com/what-is-dynamo-db
+
