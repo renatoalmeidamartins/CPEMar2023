@@ -45,3 +45,9 @@ https://docs.aws.amazon.com/sns/latest/dg/sns-dead-letter-queues.html
 ## Modulo 3
 - Infra-estrutura global da AWS https://aws.amazon.com/about-aws/global-infrastructure/
 - AWS developer tools https://aws.amazon.com/developer/tools/
+
+
+## Modulo 4
+
+Gateway load balancer 
+https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/
