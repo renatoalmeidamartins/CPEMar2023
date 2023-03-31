@@ -83,3 +83,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v
 ## Modulo 6
 - Tarefas que exigem credenciais root
 https://docs.aws.amazon.com/accounts/latest/reference/root-user-tasks.html
+
+- Gerador de politicas IAM
+https://awspolicygen.s3.us-east-1.amazonaws.com/policygen.html
+
