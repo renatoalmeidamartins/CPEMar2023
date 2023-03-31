@@ -87,3 +87,8 @@ https://docs.aws.amazon.com/accounts/latest/reference/root-user-tasks.html
 - Gerador de politicas IAM
 https://awspolicygen.s3.us-east-1.amazonaws.com/policygen.html
 
+- Melhores praticas para gestao de multiplas contas 
+https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html
+
+- Centro de conformidade do cliente
+https://aws.amazon.com/compliance/customer-center/
