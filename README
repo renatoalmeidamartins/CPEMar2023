@@ -62,3 +62,5 @@ https://aws.amazon.com/s3/pricing/
 - FSX, equivalente ao EFS (de NFS) para CIFS/SMB
 https://aws.amazon.com/fsx/
 
+- Apresentacao descrevendo um uso muito interessante para DynamoDB
+https://aws.amazon.com/dynamodb/resources/reinvent-2019-advanced-design-patterns/
